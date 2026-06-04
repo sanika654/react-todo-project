@@ -16,4 +16,4 @@ on:
           node-version: "18"
 
       - name: Run app.js
-        run: node app .js
+        run: node app.js
