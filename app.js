@@ -1,1 +1,1 @@
-console.log("my first CI/CD");
+console.log("my first CI/CD")
